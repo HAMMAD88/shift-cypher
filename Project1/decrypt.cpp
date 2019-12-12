@@ -28,20 +28,7 @@ int main() {
 		file>>std::noskipws;
 		for (int i = 0; i<66; i++) {
 			if (a[i] == word) {
-				/*if (i==62) {
-					//cout << a[i];
-					////i = (i + k) % 65;
-					//cout << " ";
-			
-				}
-				else if (i == 64)
-				{
-					//cout << a[i];
-					//cout << "\n";
-		
-				}*/
-				//else {
-					//myfile << a[i];
+				
 					
 					int x;
 					x=(i-k);
@@ -54,7 +41,7 @@ int main() {
 					}
 					
 				
-					//}
+					
 						
 			
 				}
